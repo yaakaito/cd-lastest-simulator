@@ -1,3 +1,3 @@
 ```
-last-sim USER_APP_NAME
+last-sim YOUR_APP_NAME
 ```
